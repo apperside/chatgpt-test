@@ -1,0 +1,2 @@
+create a react typescript component which has a form implemented with react-hook form
+which prompts for email and password and has a button to submit the form. use react material ui libnrary
